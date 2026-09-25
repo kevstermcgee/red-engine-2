@@ -212,60 +212,40 @@
    "position": [
     -22,
     0,
-    -3
+    -6
    ],
-   "yaw_deg": 90,
-   "group": "duel"
+   "yaw_deg": 0,
+   "team": "any"
   },
   {
    "id": "spawn_b",
    "position": [
     -18,
     0,
-    -3
+    6
    ],
-   "yaw_deg": 270,
-   "group": "duel"
+   "yaw_deg": 180,
+   "team": "any"
   },
   {
    "id": "spawn_c",
    "position": [
     -22,
     0,
-    3
+    6
    ],
-   "yaw_deg": 90,
-   "group": "duel"
+   "yaw_deg": 0,
+   "team": "any"
   },
   {
    "id": "spawn_d",
    "position": [
     -18,
     0,
-    3
+    -6
    ],
-   "yaw_deg": 270,
-   "group": "duel"
-  },
-  {
-   "id": "spawn_props_a",
-   "position": [
-    1.0,
-    0,
-    5.4
-   ],
-   "yaw_deg": 0,
-   "group": "props"
-  },
-  {
-   "id": "spawn_props_b",
-   "position": [
-    2.8,
-    0,
-    5.4
-   ],
-   "yaw_deg": 308,
-   "group": "props"
+   "yaw_deg": 180,
+   "team": "any"
   }
  ],
  "portals": [

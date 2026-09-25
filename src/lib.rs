@@ -9,7 +9,6 @@ pub mod macros;
 pub mod menu;
 pub mod audio;
 pub mod mesh;
-pub mod net;
 pub mod overlay;
 pub mod physics;
 pub mod player;
